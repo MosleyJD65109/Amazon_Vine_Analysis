@@ -19,17 +19,23 @@ We used PySpark to perform the ETL process to extract the dataset, transform the
 
 * **The products_table DataFrame** :  
 <p align="left">
+  
 ![Products_Table_DF](https://user-images.githubusercontent.com/104540261/192103864-604dcb01-852d-4242-aaa6-90d240ad6933.png)
+  
 </p>
 
 * **The review_id_table DataFrame** :  
 <p align="left">
+  
 ![review_id_table_DF](https://user-images.githubusercontent.com/104540261/192103894-cf7d3f11-1de6-4014-b845-b2f52c3498cf.png)
+  
 </p>
 
 * **The vine_table DataFrame** :  
 <p align="left">
+  
 ![vine_table_DF](https://user-images.githubusercontent.com/104540261/192103930-64c76321-3bf8-4510-ba52-b91f04fffc75.png)
+  
 </p>
 
 
