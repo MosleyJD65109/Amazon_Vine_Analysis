@@ -7,8 +7,6 @@ We used PySpark to perform the ETL process to extract the dataset, transform the
 
 ## Results
 
-### Deliverable 1: Perform ETL on Amazon Product Reviews
-
 
 * **The customers_table DataFrame** :  
 <p align="left">
