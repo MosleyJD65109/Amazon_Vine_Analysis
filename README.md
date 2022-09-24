@@ -12,7 +12,9 @@ We used PySpark to perform the ETL process to extract the dataset, transform the
 
 * **The customers_table DataFrame** :  
 <p align="left">
+  
 ![Customer_Table_DF](https://user-images.githubusercontent.com/104540261/192103839-952fd680-e501-4ac8-b13e-efb25b5633b3.png)
+  
 </p>
 
 * **The products_table DataFrame** :  
